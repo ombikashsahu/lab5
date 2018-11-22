@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//defines the library
 using namespace std;
 int main(){
 int a, b;
